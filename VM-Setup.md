@@ -40,7 +40,7 @@
 ### VirtualBox Guest Additions (Optional)
 
 - When booting Arch Linux, open the Console
-- Use `sudo pacman -Syu` to synchronize databases
+- Use `sudo pacman -Syyuu` to synchronize databases
 - Use `sudo pacman -S base-devel linux-headers` to install basic tools and kernel headers
 - On the VirtualBox Devices menu, select "Insert Guest Additions CD image..."
 - Open the files, and copy all files from the VBox virtual CD to the Documents folder
